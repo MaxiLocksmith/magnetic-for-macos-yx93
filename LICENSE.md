@@ -1,4 +1,4 @@
-
+Magnetic for macOS custom Script - dark-mode and quick-launch is the best Magnetic for macOS script, featuring dark-mode and quick-launch. Safe, efficient, and optimized for macOS
 
 
 
